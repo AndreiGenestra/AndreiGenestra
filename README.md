@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreiGenestra
-- 👀 I’m interested in AI to help in missing people cases
+- 👀 I’m interested in use AI to help in missing people cases
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on my tcc!
 - 📫 How to reach me |instagram: @overthedrei | email: andreigenestrademelo2@gmail.com | Discord: tomatitolegal
