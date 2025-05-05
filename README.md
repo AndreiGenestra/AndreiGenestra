@@ -1,12 +1,6 @@
-<style>
 
-  .titulo{
-    background-color: red;
-    color: black;
-  }
-</style>
 
-<div class="titulo"> Olá sou o Andrei!</div>
+<div class="titulo" style="background-color:red;"> Olá sou o Andrei!</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreigenestra&show_icons=true&theme=radical)
 
